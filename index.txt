@@ -1,23 +1,21 @@
-spanishconjumaster
-frenchconjumaster
-italianconjumaster
+Spanish ConjuMaster
+French ConjuMaster
+Italian ConjuMaster
 
-scmchinese
-fcmchinese
-icmchinese
+西班牙语变位大师
+法语变位大师
+意大利语变位大师
 
-svchi
-fvchi
-ivchi
-pvchi
+西班牙语单词汇
+法语单词汇
+意大利语单词汇
+葡萄牙语单词汇
 
-eneng
-sneng
-fneng
-ineng
+English News Reading and Vocabulary
+Spanish News Reading and Vocabulary
+French News Reading and Vocabulary
+Italian News Reading and Vocabulary
 
-//japkana
-japkanachi
+日语假名记忆
 
-//arabicalphabet
-arabicalphabetchi
+阿拉伯语字母
