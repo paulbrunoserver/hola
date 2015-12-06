@@ -1,1 +1,4 @@
-Naughty Finger,淘气指,https://itunes.apple.com/us/app/naughty-finger/id1062149301?ls=1&mt=8
+//English name, Chinese name, app status, app type, app store link
+
+Naughty Finger, 淘气指, NEW, Education, https://itunes.apple.com/us/app/naughty-finger/id1062149301?ls=1&mt=8
+
